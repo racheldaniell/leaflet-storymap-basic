@@ -1,9 +1,11 @@
 # leaflet-storymap
 Leaflet storymap with scroll-driven navigation for narrative and point markers from easy-to-learn template, with GeoJSON data file.
 
-This is a fork of the original from https://github.com/JackDougherty/leaflet-storymap and has been updated to use a [Handlebars template](http://handlebarsjs.com/) to configure the individual story elements.
+http://racheldaniell.github.io/leaflet-storymap/index.html
 
-## Demo
+This is a workshop tool based on a fork of the original by slead.github.io from https://github.com/JackDougherty/leaflet-storymap and uses [Handlebars template](http://handlebarsjs.com/) to configure the individual story elements.
+
+## Original Demo
 http://slead.github.io/leaflet-storymap/index.html
 
 ### Features
